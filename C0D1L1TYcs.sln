@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrListLen", "ArrListLen\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrListLen.Tests", "ArrListLen.Tests\ArrListLen.Tests.csproj", "{04E549FF-993A-400B-81A4-439A987CF8F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseBinaryDecomposition", "SparseBinaryDecomposition\SparseBinaryDecomposition.csproj", "{FC5C8A0F-8D04-4D23-9B80-7FF17ACBEDEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseBinaryDecomposition.Tests", "SparseBinaryDecomposition.Tests\SparseBinaryDecomposition.Tests.csproj", "{C7BE1F3F-AD74-490D-8C33-34EDA3432516}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{04E549FF-993A-400B-81A4-439A987CF8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E549FF-993A-400B-81A4-439A987CF8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E549FF-993A-400B-81A4-439A987CF8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5C8A0F-8D04-4D23-9B80-7FF17ACBEDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5C8A0F-8D04-4D23-9B80-7FF17ACBEDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5C8A0F-8D04-4D23-9B80-7FF17ACBEDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5C8A0F-8D04-4D23-9B80-7FF17ACBEDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BE1F3F-AD74-490D-8C33-34EDA3432516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BE1F3F-AD74-490D-8C33-34EDA3432516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BE1F3F-AD74-490D-8C33-34EDA3432516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BE1F3F-AD74-490D-8C33-34EDA3432516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
